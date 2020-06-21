@@ -1,0 +1,17 @@
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\WebLocadora.deps.json
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\WebLocadora.runtimeconfig.json
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\WebLocadora.runtimeconfig.dev.json
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\WebLocadora.dll
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\bin\Debug\netcoreapp2.1\WebLocadora.pdb
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.AssemblyInfo.cs
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.RazorAssemblyInfo.cache
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.RazorAssemblyInfo.cs
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.RazorTargetAssemblyInfo.cache
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.dll
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.pdb
+C:\Users\guilh\source\repos\WebLocadora\WebLocadora\obj\Debug\netcoreapp2.1\WebLocadora.genruntimeconfig.cache
